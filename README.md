@@ -1,2 +1,2 @@
 # momi Foundation
-a demo meeting to fundamentals of git
+a demo repo on fundamentals of git
